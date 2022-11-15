@@ -25,6 +25,4 @@ if(marks<40);
 printf("You are in Grade F");
 
 }
-  if(sayan==dhano){
-    life set
-    }
+ 
